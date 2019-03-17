@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-The only prerequisites for this application is NodeJS and Yarn installeds in your machine. If you is not sure about it, you could check it by opening your prompt and executing the commands bellow.
+The only prerequisites for this application are NodeJS and Yarn installeds on your machine. If you is not sure about it, you could check it by opening your prompt and executing the commands below.
 
 ```
 node -v
