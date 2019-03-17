@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-The only prerequisites for this application are NodeJS and Yarn installeds on your machine. If you is not sure about it, you could check it by opening your prompt and executing the commands below.
+The only prerequisites for this application are NodeJS and Yarn installed on your machine. If you are not sure about it, you could check it by opening your prompt and executing the commands below.
 
 ```
 node -v
@@ -20,14 +20,14 @@ node -v
 yarn -v
 ```
 
-If everything is ok, you will see a message with the node version installed, something like *v11.9.0* for Node and *1.13.0* for Yarn. For more details about this guys, please check these links.
+If everything is ok, you will see a message with the version installed, something like *v11.9.0* for Node and *1.13.0* for Yarn. For more details about this guys, please check these links.
 
 * [NodeJS](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com)
 
 ### Cloning and Running
 
-Just clone this repo in some directory in your machine, go to the cloned repo and run the command yarn to up all dependencies of the project. Before it, just run the command yarn start.
+Just clone this repo in some directory on your machine, go to the cloned repo and run the command yarn to update and install all dependencies of the project, after it, just run the command yarn start.
 
 Something like this 😄
 
